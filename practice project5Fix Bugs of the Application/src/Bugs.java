@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.Scanner;
 import java.util.*;
-
+// BUGS PROBLEM
 public class Bugs {
 
     public static void main(String[] args) 
